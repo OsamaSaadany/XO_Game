@@ -1,5 +1,5 @@
 # XO_Game
-### console based
+### Console Based
 
 you can find three files in the repo
 1) main.c 
